@@ -1,2 +1,2 @@
 # Terraform_S3_Objects
-S3 bucket, files, and timestamps.
+This terraform module creates an S3 bucket,uploads files into the bucket, and creates timestamps of the time of creation of the files.
